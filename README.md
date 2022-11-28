@@ -1,6 +1,6 @@
 - 👋 Hi, this is Tenzin Topjor. 
 - 👀 I’m a Data Analyst, Data Scientist and an aspiring Data Engineer
-- 🌱 I anlyze data build final dashboards for the stakeholders. I build machine learning models for predictive and forecasting business solutions.
+- 🌱 I anlyze data and build dashboards for the stakeholders. I build machine learning models for predictive and forecasting business solutions.
 - 📫 Reach me @topjorwork@gmail.com and @ linkedin @ https://www.linkedin.com/in/tenzin-topjor-353796110/
 
 <!---
